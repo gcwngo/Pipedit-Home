@@ -1,2 +1,0 @@
-# mygittutorial
-Git Tutorial
