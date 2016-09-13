@@ -3,10 +3,6 @@ html {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  -webkit-filter: blur(3px);
-  -moz-filter: blur(3px);
-  -o-filter: blur(3px);
-  -ms-filter: blur(3px);
   background-size: cover;
 
 }
@@ -27,6 +23,10 @@ a, u {
 /*.body {
     background-image: url("bg-term.png");
     background-color: #cccccc;
+   -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
 }*/
 
 
